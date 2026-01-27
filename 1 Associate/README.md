@@ -1,12 +1,11 @@
-### Table of Content
-* [[1. Introduction]]
-* [[2. Data Collection]]
-* [[3. Infrastructure]]
-* [[4. Exploring Problems]]
-* [[5. Data Lakehouse]]
-* [[6. Metrics, Logs & Traces]]
-* [[7. User & Sessions ©]]
-
+* **[1. Introduction](1.%20Introduction.md)**
+* **[2. Data Collection](2.%20Data%20Collection.md)**
+* **[3. Infrastructure](3.%20Infrastructure.md)**
+* **[4. Exploring Problems](4.%20Exploring%20Problems.md)**
+* **[5. Data Visualisation](5.%20Data%20Visualisation.md)**
+* **[6. Metrics, Logs & Traces](6.%20Metrics,%20Logs%20&%20Traces.md)**
+* **[7. User & Sessions ©](7.%20User%20&%20Sessions%20©.md)**
+---
 # Dynatrace Associate Certificate
 ---
 ## Preparation
@@ -44,3 +43,4 @@ Upon completion of this learning path **you will be able to**
 - Explain how you can use Notebooks and Dashboards to investigate a problem, determine the root cause, share results with stakeholders, and proactively monitor systems to prevent the issue going forward.
 - Explain how Dynatrace could help remediate problems through workflows and automation
 - Describe the function and purpose of DQL at a high level.
+---
