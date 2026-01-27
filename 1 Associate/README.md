@@ -6,7 +6,6 @@
 * [[5. Data Lakehouse]]
 * [[6. Metrics, Logs & Traces]]
 * [[7. User & Sessions ©]]
-* [[8. Extending Dynatrace]]
 
 # Dynatrace Associate Certificate
 ---
