@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "8dbeef370dfb0706",
+    "id": "643c16ea90768945",
     "type": "split",
     "children": [
       {
-        "id": "28846ce458345cc7",
+        "id": "f6967d5092c53d77",
         "type": "tabs",
         "children": [
           {
-            "id": "14bf465ab1c8f82c",
+            "id": "c3536246bee56ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Dynatrace Associate Certificate.md",
+                "file": "1 Associate/_Dynatrace Associate Certificate.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c475956fd5f179c",
+    "id": "705a1116a198a851",
     "type": "split",
     "children": [
       {
-        "id": "dd3bcb6c052534a1",
+        "id": "2563689a65cc6e0d",
         "type": "tabs",
         "children": [
           {
-            "id": "9db0c40dc9978b14",
+            "id": "bf9b63ee3fad0298",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4f94f13bb8d69e1a",
+            "id": "912f6d659ddbf5cb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "fa958e28b1aec93a",
+            "id": "d37b774bece186c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "5d83b017d7202895",
+    "id": "7d58b6a1f84bbd9a",
     "type": "split",
     "children": [
       {
-        "id": "46e075ec0460fc2f",
+        "id": "9613ca75c4f75864",
         "type": "tabs",
         "children": [
           {
-            "id": "c8856330ec98cc7d",
+            "id": "c870df4c722e90b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Data Collection.md",
+                "file": "1 Associate/_Dynatrace Associate Certificate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Data Collection"
+              "title": "Backlinks for _Dynatrace Associate Certificate"
             }
           },
           {
-            "id": "eca60ee06f2d5fcc",
+            "id": "5cf048ff2f92b760",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Data Collection.md",
+                "file": "1 Associate/_Dynatrace Associate Certificate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Data Collection"
+              "title": "Outgoing links from _Dynatrace Associate Certificate"
             }
           },
           {
-            "id": "98392aaeb4b70ac6",
+            "id": "105ffb703d4f36b5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "ad051cb02354d32c",
+            "id": "985d27283c219a17",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "7c8ba07bedcb405f",
+            "id": "5cce6c467836ebf6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Data Collection.md",
+                "file": "1 Associate/_Dynatrace Associate Certificate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Data Collection"
+              "title": "Outline of _Dynatrace Associate Certificate"
             }
           }
         ]
@@ -183,27 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "14bf465ab1c8f82c",
+  "active": "c3536246bee56ffd",
   "lastOpenFiles": [
-    "2. Data Collection.md",
-    "1. Introduction.md",
-    "_Dynatrace Associate Certificate.md",
-    "5. Data Lakehouse.md",
-    "6. Metrics, Logs & Traces.md",
-    "7. User & Sessions ©.md",
-    "Extending Dynatrace.md",
-    "4. Exploring Problems.md",
-    "3. Infrastructure.md",
-    "TEMP.md",
-    "Problems.md",
-    "Organising.md",
-    "Untitled.canvas",
-    "[[3..md",
-    "[[.md",
-    "Monitoring Modes.md",
-    "]. Installed on a host or a server.md",
-    "().md",
-    "ActiveGate.md",
-    "1. Preparation & Exam.md"
+    "1 Associate/README.md",
+    "1 Associate/8. Extending Dynatrace.md",
+    "README.md",
+    "1 Associate/_Dynatrace Associate Certificate.md",
+    "1 Associate/1. Introduction.md",
+    "1 Associate/2. Data Collection.md",
+    "1 Associate/3. Infrastructure.md"
   ]
 }
