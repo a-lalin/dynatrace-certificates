@@ -14,11 +14,18 @@
     Ensure all buttons and subtopics within each section are thoroughly reviewed to grasp the nuances of the Dynatrace platform comprehensively.
 * **Complete recommended action items**
     Pay special attention to the "call to action" section at the end of each lesson and execute the recommended action items to reinforce your learning.
-### Recommended Preparation
+#### Recommended Preparation
 - **Review Associate Preparation Study Guides**
 	  Review any additional study guides mentioned on the Dynatrace University registration page for this certification.
 - **Review Dynatrace Documentation and Community**
-	  Review and familiarize yourself with Dynatrace Documentation and Community.
+	  Review and familiarise yourself with Dynatrace Documentation and Community.
+#### Test Your Equipment
+**ProctorU** will proctor your exam. They require you to use Google Chrome and download a browser extension to connect with the proctor and monitor your test.
+
+1. Ensure **Google Chrome is installed**; if you don't have Google Chrome installed, you can download it **[here](https://www.google.com/chrome/)**.  
+2. Download and install the **ProctorU Chrome Browser Extension** **[here](https://chromewebstore.google.com/detail/guardian/fiffaolbojaggkamgjpmambpadolfkmd?pli=1)**.  
+3. Make sure to **test your equipment** before your exam **[here](https://go.proctoru.com/users/12249782/system-metrics/new)**.  
+4. If you need **assistance from ProctorU**, please see their support page **[here](https://support.proctoru.com/hc/en-us/requests/new)**.
 ## Exam
 The exam consists of 60 written questions and 10-15 practical questions.
 
@@ -52,16 +59,6 @@ The exam consists of 60 written questions and 10-15 practical questions.
 - Proficiency with operating systems like Windows, UNIX, VMware, etc.
 - Understanding of Cloud and New Stack Technologies such as Azure, Docker, Kubernetes, Cloud Foundry, IBM Cloud, OpenStack, OpenShift, etc.
 ## Objectives
-Upon completion of this learning path **you will be able to**
-- Describe the value Dynatrace brings to observability and security though the various capabilities available.
-- Demonstrate the ability to navigate the Dynatrace platform at a high level.
-- Navigate through a monitored business application, starting from the user interface and through all layers of the application, including services, database and infrastructure.
-- Navigate Smartscape and infrastructure health.
-- Analyse a problem identified by Dynatrace, showing root cause and impact.
-- Explain how you can use Notebooks and Dashboards to investigate a problem, determine the root cause, share results with stakeholders, and proactively monitor systems to prevent the issue going forward.
-- Explain how Dynatrace could help remediate problems through workflows and automation
-- Describe the function and purpose of DQL at a high level.
-## After completion
 Having completed this certification, candidates should be able to:
 - Describe the **value Dynatrace brings** to observability, security and automation though the various capabilities available.
 - Demonstrate the **ability to navigate the** Dynatrace **platform**.
@@ -71,31 +68,6 @@ Having completed this certification, candidates should be able to:
 - Explain how Dynatrace could help remediate problems through **workflows** and **automation**.
 - Describe the function and purpose of DQL at a high level, and **use DQL to create queries in dashboards and notebooks**.
 ---
-
-
-
-### 
-
-**Download the ProctorU Browser Extension and Test Your Equipment**
-
-  
-ProctorU will proctor your exam. They require you to use Google Chrome and download a browser extension to connect with the proctor and monitor your test.
-
-- 1
-    
-    Ensure Google Chrome is installed; if you don't have Google Chrome installed, you can download it [here(opens in a new tab)](https://www.google.com/chrome/).  
-    
-- 2
-    
-    Download and install the ProctorU Chrome Browser Extension [here(opens in a new tab)](https://chromewebstore.google.com/detail/guardian/fiffaolbojaggkamgjpmambpadolfkmd?pli=1).  
-    
-- 3
-    
-    Make sure to test your equipment before your exam [here(opens in a new tab)](https://go.proctoru.com/users/12249782/system-metrics/new).  
-    
-- 4
-    
-    If you need assistance from ProctorU, please see their support page [here(opens in a new tab)](https://support.proctoru.com/hc/en-us/requests/new).
 
 
 
