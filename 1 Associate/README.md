@@ -82,5 +82,5 @@ All practical examples are based on ground knowledge of Dynatrace capabilities a
 * Create a graph in **Data Explorer** for **Dashboards classic** (might not exist by now)
 * **Share** a **Dashboard**, create a shared link, **adjust shared rights** in **Dashboards**
 * Filter by **user action name** in **EasyTrade App** (Mobile Applications)
-* etc
+* **etc**
 ---
