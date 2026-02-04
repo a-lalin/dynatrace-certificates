@@ -29,6 +29,8 @@
 ## Exam
 The exam consists of 60 written questions and 10-15 practical questions.
 
+> [!NOTE]
+> #### What counts as passing the exam?
 > **There is no exact information** about how many % counts as a passed exam.
 > Some rumours suggested that in order to pass the exam you have to gain **at least 80%**.
 > It is also not clear how much each theory/practise question is valued, but suggesting they all cost roughly the same you would have to complete all practical questions and 45 theory questions to pass the exam.
