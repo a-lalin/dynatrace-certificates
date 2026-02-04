@@ -29,6 +29,11 @@
 ## Exam
 The exam consists of 60 written questions and 10-15 practical questions.
 
+> **There is no exact information** about how many % counts as a passed exam.
+> Some rumours suggested that in order to pass the exam you have to gain **at least 80%**.
+> It is also not clear how much each theory/practise question is valued, but suggesting they all cost roughly the same you would have to complete all practical questions and 45 theory questions to pass the exam.
+> **This is all speculations, though.**
+
 * **1h: Multiple choice & multiple response questions**
     **Multiple-choice**
 	    Select one option from a list that best answers the question or completes the statement.
@@ -68,11 +73,14 @@ Having completed this certification, candidates should be able to:
 - Explain how Dynatrace could help remediate problems through **workflows** and **automation**.
 - Describe the function and purpose of DQL at a high level, and **use DQL to create queries in dashboards and notebooks**.
 ---
-
-
-
-
-
-
-
-
+## Practical examples
+All practical examples are based on ground knowledge of Dynatrace capabilities and usually include the following tasks:
+* **Filter, parse, summarize, sort** data with DQL in **Notebooks**
+* Create a c**ustom variable** in **Notebooks**
+* **Change visualisation** in **Notebooks** for a query
+* Create a base Javascript code ("Hello World") in **Notebooks**
+* Create a graph in **Data Explorer** for **Dashboards classic** (might not exist by now)
+* **Share** a **Dashboard**, create a shared link, **adjust shared rights** in **Dashboards**
+* Filter by **user action name** in **EasyTrade App** (Mobile Applications)
+* etc
+---
