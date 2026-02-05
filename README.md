@@ -13,6 +13,16 @@ This repository serves as a centralised knowledge base for mastering the Dynatra
 > Although this repository allows to read **.md** files on GitHub directly, it is highly recommended to download **Obsidian** and work with texts from there.
 > You can clone the repository on your device and open as vault in Obsidian.
 ## Repository Structure
+![](badges.png)
 The content is organised into different levels of Certificates:
-- **[1. Associate](1%20Associate/README.md)**
+1. **[Associate](1%20Associate/README.md)**
+>
+2. **Administration Professional**
+3. **Implementation Professional**
+4. **Advanced Automation Specialist**
+5. **DEM and Business Analytics Specialist**
+6. **Advanced Observability Specialist**
+7. **Advanced Security Specialist**
+>
+8. **Professional**
 ---
