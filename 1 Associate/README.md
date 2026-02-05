@@ -76,7 +76,8 @@ Having completed this certification, candidates should be able to:
 - Describe the function and purpose of DQL at a high level, and **use DQL to create queries in dashboards and notebooks**.
 ---
 ## Practical examples
-All practical examples are based on ground knowledge of Dynatrace capabilities and usually include the following tasks:
+All practical examples are based on ground knowledge of Dynatrace capabilities.
+Here are some examples what might be on the exam:
 * **Filter, parse, summarize, sort** data with DQL in **Notebooks**
 * Create a c**ustom variable** in **Notebooks**
 * **Change visualisation** in **Notebooks** for a query
