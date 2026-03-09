@@ -10,7 +10,7 @@
 ---
 # Associate Certificate
 
-<img src="_pictures/pic_1.png" width="200">
+<img src="_pictures/pic_1.png" width="20%">
 ## Preparation
 * **Complete all courses in the Dynatrace Essentials Learning Plan**
 	Go through every course of the Dynatrace Essentials Learning Plan meticulously.
