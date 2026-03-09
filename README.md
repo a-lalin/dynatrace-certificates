@@ -30,9 +30,9 @@ The content is organised into different levels of Certificates:
 10. **Ambassador**
 ---
 
-| ![Essentials](pic_0.png) | ![](pic_1.png) | ![](pic_2.png)  | ![](pic_3.png)  |
-| ------------------------ | -------------- | --------------- | --------------- |
-| ![](pic_4.png)           | ![](pic_5.png) | ![](pic_6.png)  | ![](pic_7.png)  |
-| ![](pic_8.png)           | ![](pic_9.png) | ![](pic_10.png) | ![](pic_11.png) |
+| ![Essentials](_pictures/pic_0.png) | ![](pic_1.png) | ![](pic_2.png)  | ![](pic_3.png)  |
+| ---------------------------------- | -------------- | --------------- | --------------- |
+| ![](pic_4.png)                     | ![](pic_5.png) | ![](pic_6.png)  | ![](pic_7.png)  |
+| ![](pic_8.png)                     | ![](pic_9.png) | ![](pic_10.png) | ![](pic_11.png) |
 
 ---
