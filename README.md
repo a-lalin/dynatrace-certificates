@@ -19,8 +19,8 @@ The content is organised into different levels of Certificates:
 >
 2. **Administration Professional**
 3. **Implementation Professional**
-4. **Advanced Automation Specialist**
-5. **DEM and Business Analytics Specialist**
+4. **DEM and Business Analytics Specialist**
+5. **Advanced Automation Specialist**
 6. **Advanced Observability Specialist**
 7. **Advanced Security Specialist**
 >
