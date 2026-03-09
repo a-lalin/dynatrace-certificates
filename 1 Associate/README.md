@@ -1,3 +1,5 @@
+**[<< back](README.md)**
+
 * **[1. Introduction](1.%20Introduction.md)**
 * **[2. Data Collection](2.%20Data%20Collection.md)**
 * **[3. Infrastructure](3.%20Infrastructure.md)**
@@ -7,6 +9,7 @@
 * **[7. User & Sessions ©](7.%20User%20&%20Sessions%20©.md)**
 ---
 # Dynatrace Associate Certificate
+![[pic_1.png|200]]
 ## Preparation
 * **Complete all courses in the Dynatrace Essentials Learning Plan**
 	Go through every course of the Dynatrace Essentials Learning Plan meticulously.

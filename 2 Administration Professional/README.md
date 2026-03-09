@@ -1,3 +1,5 @@
+**[<< back](README.md)**
+
 * **[1. Platform Health & Configuration](1.%20Platform%20Health%20&%20Configuration.md)**
 * **[2. Data Privacy & Security](2.%20Data%20Privacy%20&%20Security.md)**
 * **[3. Settings & Centralised Management](3.%20Settings%20&%20Centralised%20Management.md)**
@@ -8,6 +10,7 @@
 * **[8. Licensing & Consumption](8.%20Licensing%20&%20Consumption.md)**
 ---
 # Dynatrace Administration Professional Certificate
+![[pic_2.png|200]]
 ## Preparation
 * **Complete all sections of the Dynatrace Administration Professional Learning Path**
 	Go through every section meticulously and in order.
@@ -23,15 +26,15 @@
 	  Key docs are linked throughout these notes. Bookmark the ones marked as critical.
 
 #### Test Your Equipment
-**Examity** (via GoToMeeting) will proctor your exam.
+**ProctorU** will proctor your exam.
 
 1. Ensure **Google Chrome is installed** with **pop-up blocker disabled**.
 2. Webcam, microphone, and speakers must remain **ON** throughout the test.
-3. **Dual monitors are NOT allowed**.
+3. **Dual monitors are NOT allowed**. A single large monitor may be used instead of the laptop display, but the **laptop display must remain closed**.
 4. **Clear desk** — whiteboards and bulletin boards must be cleared.
 
 ## Exam
-The exam consists of **70 written questions** and **10–20 practical questions**.
+The exam is split into two parts. It is recommended to spend **2 hours on Part 1** and **1 hour on Part 2**.
 
 * **Written section: Multiple choice & multiple response**
 	**Multiple-choice** — select one best answer.
@@ -50,7 +53,7 @@ The exam consists of **70 written questions** and **10–20 practical questions*
 - Platform configuration (SSO, cloud integrations, Kubernetes, App Security)
 - Data privacy, log masking, credential vault
 - Settings scope, configuration history, Settings API
-- Centralized settings: network zones, management zones, host groups, maintenance windows
+- Centralised settings: network zones, management zones, host groups, maintenance windows
 - Problem notifications, alerting profiles, workflows
 - Tagging, metadata, naming rules, SLOs
 - RUM & Synthetic monitoring configuration
