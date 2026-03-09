@@ -11,9 +11,10 @@
 ---
 # Administration Professional Certificate 
 
+## Preparation
+
 <img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_pictures/pic_2.png" width="200" align="right">
 
-## Preparation
 * **Complete all sections of the Dynatrace Administration Professional Learning Path**
 	Go through every section meticulously and in order.
 * **Review buttons and subtopics**
