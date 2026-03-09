@@ -1,6 +1,6 @@
 **[<< back](README.md)**
 
-<img src="_pictures/pic_0.png" width="200">
+# Essential Certificate <img src="_pictures/pic_0.png" width="200" align="right">
 
 The learning material for the **Essential Certificate** is exactly the same used for **Associate Certificate**. Since the **Essential Certificate** is free you can imagine this being your **step 0 (preparation) certificate** before attending the bigger exam.
 ## Preparation

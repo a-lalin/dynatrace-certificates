@@ -8,7 +8,7 @@
 * **[6. Metrics, Logs & Traces](6.%20Metrics,%20Logs%20&%20Traces.md)**
 * **[7. User & Sessions ©](7.%20User%20&%20Sessions%20©.md)**
 ---
-# Dynatrace Associate Certificate
+# Associate Certificate
 
 <img src="_pictures/pic_1.png" width="200">
 ## Preparation
