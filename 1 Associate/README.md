@@ -10,10 +10,10 @@
 ---
 # Associate Certificate
 
+## Preparation
+
 <img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_pictures/pic_1.png" width="200" align="right">
 
-
-## Preparation
 * **Complete all courses in the Dynatrace Essentials Learning Plan**
 	Go through every course of the Dynatrace Essentials Learning Plan meticulously.
 * **Review buttons and subtopics**
