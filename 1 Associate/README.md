@@ -1,5 +1,3 @@
-**[<< back](README.md)**
-
 * **[1. Introduction](1.%20Introduction.md)**
 * **[2. Data Collection](2.%20Data%20Collection.md)**
 * **[3. Infrastructure](3.%20Infrastructure.md)**

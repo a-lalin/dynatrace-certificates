@@ -1,5 +1,3 @@
-**[<< back](README.md)**
-
 * **[1. Platform Health & Configuration](1.%20Platform%20Health%20&%20Configuration.md)**
 * **[2. Data Privacy & Security](2.%20Data%20Privacy%20&%20Security.md)**
 * **[3. Settings & Centralised Management](3.%20Settings%20&%20Centralised%20Management.md)**

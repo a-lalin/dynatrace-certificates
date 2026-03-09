@@ -1,12 +1,10 @@
-**[<< back](README.md)**
-
 # Essential Certificate
 
 The learning material for the **Essential Certificate** is exactly the same used for **Associate Certificate**. Since the **Essential Certificate** is free you can imagine this being your **step 0 (preparation) certificate** before attending the bigger exam.
 
 ## Preparation
 
-<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_pictures/pic_2.png" width="200" align="right">
+<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_pictures/pic_0.png" width="200" align="right">
 
 * **Complete all courses in the Dynatrace Essentials Learning Plan**
 	Go through every course of the Dynatrace Essentials Learning Plan meticulously.
