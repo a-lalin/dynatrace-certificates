@@ -41,11 +41,12 @@ The exam consists of 60 written questions and 10-15 practical questions.
 > **This is all speculations, though.**
 
 * **1h: Multiple choice & multiple response questions**
-    **Multiple-choice**
-	    Select one option from a list that best answers the question or completes the statement.
-    **Multiple-response**
-	    Select multiple options from a list to answer the question or complete the statement.
-		Multiple-response test items are clearly identified. **Partial percentage for each correct answer is given**, and that **same percentage is deducted for an incorrect choice**, however, this does not result in negative points for the question overall.
+    * **Multiple-choice**
+	    * Select one option from a list that best answers the question or completes the statement.
+    * **Multiple-response**
+	    * Select multiple options from a list to answer the question or complete the statement.
+		* Multiple-response test items are clearly identified.
+        * **Partial percentage for each correct answer is given**, and that **same percentage is deducted for an incorrect choice**, however, this does not result in negative points for the question overall.
 * **2h: Hands-on Practical, coding exercise**
 	    Complete the tasks as directed and upload the screenshots and/or files as required.
 

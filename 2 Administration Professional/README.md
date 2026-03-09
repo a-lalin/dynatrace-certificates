@@ -37,11 +37,16 @@
 ## Exam
 The exam is split into two parts. It is recommended to spend **2 hours on Part 1** and **1 hour on Part 2**.
 
-* **Written section: Multiple choice & multiple response**
-	**Multiple-choice** — select one best answer.
-	**Multiple-response** — select multiple answers. Partial credit is given per correct answer, and the same percentage is **deducted for an incorrect choice**.
-* **Practical section: Open book**
-	Hands-on tasks in a Dynatrace environment. Knowing where settings are located is essential.
+* **1h: Multiple choice & multiple response questions**
+    * **Multiple-choice**
+	    * Select one option from a list that best answers the question or completes the statement.
+    * **Multiple-response**
+	    * Select multiple options from a list to answer the question or complete the statement.
+		* Multiple-response test items are clearly identified.
+		* **Partial percentage for each correct answer is given**, and that **same percentage is deducted for an incorrect choice**, however, this does not result in negative points for the question overall.
+		
+* **2h: Hands-on Practical, coding exercise**
+	    Complete the tasks as directed and upload the screenshots and/or files as required.
 
 ## Prerequisites
 - Six or more months of hands-on experience with the Dynatrace platform.

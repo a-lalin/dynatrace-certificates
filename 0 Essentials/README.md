@@ -19,9 +19,9 @@ The learning material for the **Essential Certificate** is exactly the same used
 	  Review and familiarise yourself with Dynatrace Documentation and Community.
 ## Exam
 The exam consists of 60 written questions. **You have to achieve at least 80% in total.**
-
-**Multiple-choice**
-	Select one option from a list that best answers the question or completes the statement.
-**Multiple-response**
-	Select multiple options from a list to answer the question or complete the statement.
-	Multiple-response test items are clearly identified. **Partial percentage for each correct answer is given**, and that **same percentage is deducted for an incorrect choice**, however, this does not result in negative points for the question overall.
+* **Multiple-choice**
+	* Select one option from a list that best answers the question or completes the statement.
+* **Multiple-response**
+	* Select multiple options from a list to answer the question or complete the statement.
+	* Multiple-response test items are clearly identified.
+	* **Partial percentage for each correct answer is given**, and that **same percentage is deducted for an incorrect choice**, however, this does not result in negative points for the question overall.
