@@ -9,9 +9,11 @@
 * **[7. User Management & Access](7.%20User%20Management%20&%20Access.md)**
 * **[8. Licensing & Consumption](8.%20Licensing%20&%20Consumption.md)**
 ---
-# Administration Professional Certificate <img src="_pictures/pic_2.png" width="200">
+# Administration Professional Certificate 
 
+<img src="_pictures/pic_2.png" width="200">
 
+<img src="_pictures/pic_2.png" width="200" align="right" />
 
 ## Preparation
 * **Complete all sections of the Dynatrace Administration Professional Learning Path**
