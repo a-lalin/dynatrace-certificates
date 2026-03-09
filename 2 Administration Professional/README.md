@@ -10,7 +10,7 @@
 * **[8. Licensing & Consumption](8.%20Licensing%20&%20Consumption.md)**
 ---
 # Dynatrace Administration Professional Certificate
-![[pic_2.png|200]]
+![[_pictures/pic_2.png|200]]
 ## Preparation
 * **Complete all sections of the Dynatrace Administration Professional Learning Path**
 	Go through every section meticulously and in order.
