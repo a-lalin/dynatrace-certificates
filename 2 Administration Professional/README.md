@@ -12,6 +12,14 @@
 # Dynatrace Administration Professional Certificate
 
 <img src="_pictures/pic_2.png" width="200" align="right">
+
+```
+<div style="width: 60%; height: 60%">
+  
+  ![](_pictures/pic_2.png)
+  
+</div>
+```
 ## Preparation
 * **Complete all sections of the Dynatrace Administration Professional Learning Path**
 	Go through every section meticulously and in order.
