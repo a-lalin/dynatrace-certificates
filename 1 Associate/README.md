@@ -12,7 +12,7 @@
 
 ## Preparation
 
-<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_pictures/pic_1.png" width="200" align="right">
+<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_badges/pic_1.png" width="200" align="right">
 
 * **Complete all courses in the Dynatrace Essentials Learning Plan**
 	* Go through every course of the Dynatrace Essentials Learning Plan meticulously.

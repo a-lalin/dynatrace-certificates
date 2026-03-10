@@ -13,7 +13,7 @@
 
 ## Preparation
 
-<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_pictures/pic_2.png" width="200" align="right">
+<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_badges/pic_2.png" width="200" align="right">
 
 * **Complete all sections of the Dynatrace Administration Professional Learning Path**
 	Go through every section meticulously and in order.
