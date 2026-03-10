@@ -1,6 +1,6 @@
 # Essential Certificate
 
-The learning material for the **Essential Certificate** is exactly the same used for **Associate Certificate**. Since the **Essential Certificate** is free you can imagine this being your **step 0 (preparation) certificate** before attending the bigger exam.
+The learning material for the **Essential Certificate** is exactly the same as that used for the **Associate Certificate**. Since the **Essential Certificate is free**, you can imagine this being your step 0 (preparation) certificate before attending the bigger exam.
 
 ## Preparation
 
