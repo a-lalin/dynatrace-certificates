@@ -4,7 +4,7 @@ The learning material for the **Essential Certificate** is exactly the same as
 
 ## Preparation
 
-<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_badges/pic_0.png" width="200" align="right">
+<img src="https://github.com/a-lalin/dynatrace-certificates/blob/main/_badges/badge_0.png" width="200" align="right">
 
 * **Complete all courses in the Dynatrace Essentials Learning Plan**
 	* Go through every course of the Dynatrace Essentials Learning Plan meticulously.

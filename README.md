@@ -34,9 +34,9 @@ The content is organised into different levels of Certificates:
 
 ---
 
-| ![](_badges/pic_0.png) | ![](_badges/pic_1.png) | ![](_badges/pic_2.png)  | ![](_badges/pic_3.png)  |
-| ---------------------- | ---------------------- | ----------------------- | ----------------------- |
-| ![](_badges/pic_4.png) | ![](_badges/pic_5.png) | ![](_badges/pic_6.png)  | ![](_badges/pic_7.png)  |
-| ![](_badges/pic_8.png) | ![](_badges/pic_9.png) | ![](_badges/pic_10.png) | ![](_badges/pic_11.png) |
+| ![](_badges/badge_0.png) | ![](_badges/badge_1.png) | ![](_badges/badge_2.png)  | ![](_badges/badge_3.png)  |
+| ------------------------ | ------------------------ | ------------------------- | ------------------------- |
+| ![](_badges/badge_4.png) | ![](_badges/badge_5.png) | ![](_badges/badge_6.png)  | ![](_badges/badge_7.png)  |
+| ![](_badges/badge_8.png) | ![](_badges/badge_9.png) | ![](_badges/badge_10.png) | ![](_badges/badge_11.png) |
 
 ---
