@@ -95,10 +95,8 @@ Here are some examples what might be on the exam:
 * **Filter, parse, summarise, sort** data with DQL in **Notebooks**
 * Create a c**ustom variable** in **Notebooks**
 * **Change visualisation** in **Notebooks** for a query
-* Create a base Javascript code ("Hello World") in **Notebooks**
-* Create a graph in **Data Explorer** for **Dashboards classic** (might not exist by now)
+* Create a base Javascript code ("Hello World") in **Notebooks**\
 * **Share** a **Dashboard**, create a shared link, **adjust shared rights** in **Dashboards**
 * Filter by **user action name** in **EasyTrade App** (Mobile Applications)
-* **etc**
 
 ---
